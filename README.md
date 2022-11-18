@@ -813,6 +813,17 @@ APPLICATION_COMMAND_BADGE | 8388608 (1 << 23) | Indicates if an app has register
 | 832025886030168105 | Discord Game 23 |
 | 832025928938946590 | Discord Game 24 |
 
+## Discords Brand / Bot Ids
+
+Discord System message account ID: - 643945264868098049
+
+Discord Community updates account ID - 669627189624307712
+
+Discord Owner Account ID - 21414249976823808
+
+Clyde Bots ID - 1
+
+Note: Some of them you cant mention because of how IDs work
 
 ## Discords Internal Server Structure
 Check out this article about Reverse Engineering Discord, and the proof that Discord decrypts your encrypted data: <a href="https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626">https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626</a><br>
