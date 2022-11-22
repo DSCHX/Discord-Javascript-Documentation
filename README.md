@@ -922,4 +922,4 @@ and then finally start up Discord and enjoy!
 
 ### GH Pages Styling Below! Ignore Below!
 
-<style>body, html { background:black;color:limegreen; } .markdown-body img { background-color:darkslategrey;border-radius:23px; } .markdown-body .highlight pre, .markdown-body pre { background:black; }</style>
+<style>body, html { background:black;color:limegreen; } .markdown-body img { background-color:darkslategrey;border-radius:23px; }</style>
