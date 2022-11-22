@@ -920,6 +920,6 @@ and then finally start up Discord and enjoy!
 
 <td><table cellspacing="0" cellpadding="0" border="0"><tr><td style="font-family: Roboto, sans-serif; font-weight: 700; font-size: 16px; line-height: 19px; color: rgb(0, 40, 72); padding: 0px 0px 4px;">Raz</td></tr><tr><td style="font-family: Roboto, sans-serif; font-weight: 700; font-size: 10px; line-height: 12px; color: rgb(174, 192, 209); padding: 0px 0px 4px; text-transform: uppercase;">Experienced Programmer</td></tr><!----><tr><td style="padding: 0px; font-size: 10px; line-height: 12px;"><a href="https://github.com/Raz-js" style="font-family: Roboto, sans-serif; font-weight: 700; color: rgb(67, 147, 207); text-decoration: none;">Document Revised By Raz</a></td></tr></table></td></tr></table>
 
-### Ignore!
+### GH Pages Styling Below! Ignore Below!
 
 <style>body, html { background:black;color:limegreen; } .markdown-body img { background-color:darkslategrey;border-radius:23px; } .markdown-body .highlight pre, .markdown-body pre { background:black; }</style>
