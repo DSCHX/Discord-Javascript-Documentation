@@ -578,6 +578,21 @@ document.getElementsByClassName("wordmarkWindows-2dq6rw wordmark-2u86JB")[0].inn
 
 # Behind the Scenes and Discord Framework
 
+## Discord CDN Syntax
+
+### Banner CDN Link
+
+<table>
+  <tr><th></th><th>Example</th></tr>
+  <tr><td>Base Banner CDN Link</td><td>https://cdn.discordapp.com/banners/</td></tr>
+  <tr><td>User Id</td><td>904043694334824498</td></tr>
+  <tr><td>Slash</td><td>/</td></tr>
+  <tr><td>Banner Hash</td><td>d0015e2f9ac73291edf7a7b33b38c738</td></tr>
+  <tr><td>File Format</td><td>.png</td></tr>
+  <tr><td>Question Mark</td><td>?</td></tr>
+<tr><td>Size Parameter</td><td>size=300</td></tr>
+</table>
+
 ## Discord Token Syntax
 
 <table>
