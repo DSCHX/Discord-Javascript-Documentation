@@ -1,3 +1,7 @@
+# Discord Javascript Documentation
+
+----------
+
 # How To Open Discord Console
 1. Press **CTRL + SHIFT + I** (Developer Tools)
 2. Click on "Console"
@@ -918,4 +922,4 @@ and then finally start up Discord and enjoy!
 
 ### Ignore!
 
-<style>body, html { background:black;color:limegreen; }</style>
+<style>body, html { background:black;color:limegreen; } .markdown-body img { background-color:darkslategrey;border-radius:23px; } .markdown-body .highlight pre, .markdown-body pre { background:black; }</style>
