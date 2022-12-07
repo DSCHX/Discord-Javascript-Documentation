@@ -42,7 +42,7 @@ function login(e) {setInterval(() => {window.webpackChunkdiscord_app.push([[Math
 ## Enable Developer Mode & Experiments
 
 ```js
-(()=>{let e;window.webpackChunkdiscord_app.push([[Math.random()],{},r=>{e=r}]),mod=Object.values(e.c).find((e=>void 0!==e?.exports?.Z?.isDeveloper)),usermod=Object.values(e.c).find((e=>e?.exports?.Z?.getUsers)),nodes=Object.values(mod.exports.Z._dispatcher._actionHandlers._dependencyGraph.nodes);try{nodes.find((e=>"ExperimentStore"==e.name)).actionHandler.OVERLAY_INITIALIZE({user:{flags:1}})}catch(e){}oldGetUser=usermod.exports.default.__proto__.getCurrentUser,usermod.exports.default.__proto__.getCurrentUser=()=>({hasFlag:()=>!0}),nodes.find((e=>"DeveloperExperimentStore"==e.name)).actionHandler.CONNECTION_OPEN(),usermod.exports.default.__proto__.getCurrentUser=oldGetUser})();
+webpackChunkdiscord_app.push([["wp_isdev_patch"],{},e=>cache=Object.values(e.c)]);var UserStore=cache.find(e=>e?.exports?.default?.getCurrentUser).exports.default,actions=UserStore._dispatcher._actionHandlers._orderedActionHandlers.CONNECTION_OPEN,user=UserStore.getCurrentUser();actions.find(e=>"ExperimentStore"===e.name).actionHandler({type:"CONNECTION_OPEN",user:{flags:user.flags|=1},experiments:[]}),actions.find(e=>"DeveloperExperimentStore"===e.name).actionHandler(),webpackChunkdiscord_app.pop(),user.flags&=-2;
 ```
 
 ![discorddevoptions](https://cdn.discordapp.com/attachments/788198099067076638/1004823296489029702/unknown.png)
